@@ -33,11 +33,6 @@
 
 
 
-复制此条链接进入 Pharos Pro
-![](https://raw.githubusercontent.com/ChrisPzzz/temple/master/12.jpg)
-
-![](https://raw.githubusercontent.com/ChrisPzzz/temple/master/13.jpg)
-
 
 ## *注意本教程为了更简单所以采用的是Fork的方案,有能力的同学最好自建自己的github项目*
 
